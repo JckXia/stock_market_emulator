@@ -1,0 +1,31 @@
+This stock emulator acquires real time stock data from the alpha vantage API
+and all data is parsed in JSON format. Client data is stored in an SQL server
+where their money are changing in real time
+
+Project outline/areas of focus
+
+1. Acquiring data from a real time API
+
+2. Build a login system with SQL
+
+3. Understand how the stock market operates
+
+4. create the webpage that displays the information
+    (beautifiy the page )
+
+5. Add additional features to the webpage (outlining money in past 30 days)
+    idea: Place the games on a database,where other players can join
+          Find a stock news api that pulls information here
+
+www.marketwatch.com(how they do dat)
+
+has start/end date  vs ongoing
+   group vs solo (solo)
+
+When players begin, information they need to input
+1. Starting balance
+2. Commision value  (assume 0 for now)
+3. credit interest rate (assume 0 for onw)
+4. debit interest rate for leverage
+5. Allow Short selling
+6. Allow margin selling

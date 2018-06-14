@@ -1,0 +1,10 @@
+Alfa vantage API worked as expected
+
+Next steps:
+Node.js authentication system
+SQL
+Per each user, store two pieces of information per stock
+"MSFT" : Cost of stock
+       : Num bought
+       
+User authentication system
